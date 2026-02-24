@@ -1,0 +1,18 @@
+baseURL = 'https://example.com/'
+languageCode = 'zh-cn'
+title = 'My Hugo Blog'
+theme = 'codex-theme'
+
+[pagination]
+  pagerSize = 10
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 20
