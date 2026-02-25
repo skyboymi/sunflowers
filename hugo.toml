@@ -18,6 +18,9 @@ hasCJKLanguage = true
   siteStartYear = 2026
   rss = true
 
+[params.navItems]
+  cryptoRss = { href = '/crypto-rss/', icon = 'logo-rss', title = 'Crypto RSS' }
+
 [menus]
   [[menus.main]]
     name = 'Home'

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Crypto RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="Crypto Feeds" title="Crypto Feeds">
+      <outline text="CoinDesk Main Feed" type="rss" xmlUrl="https://www.coindesk.com/arc/outboundfeeds/rss/" htmlUrl="https://www.coindesk.com/" />
+      <outline text="Cointelegraph Main Feed" type="rss" xmlUrl="https://cointelegraph.com/rss" htmlUrl="https://cointelegraph.com/" />
+      <outline text="Cointelegraph Bitcoin" type="rss" xmlUrl="https://cointelegraph.com/rss/tag/bitcoin" htmlUrl="https://cointelegraph.com/tags/bitcoin" />
+      <outline text="Cointelegraph Market Analysis" type="rss" xmlUrl="https://cointelegraph.com/rss/category/market-analysis" htmlUrl="https://cointelegraph.com/category/market-analysis" />
+      <outline text="Cointelegraph Top 10 Cryptocurrencies" type="rss" xmlUrl="https://cointelegraph.com/rss/category/top-10-cryptocurrencies" htmlUrl="https://cointelegraph.com/category/top-10-cryptocurrencies" />
+    </outline>
+  </body>
+</opml>

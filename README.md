@@ -27,4 +27,5 @@ hugo --gc --minify
 
 - Main config: `hugo.toml`
 - Dream docs: `https://hugo-theme-dream.g1en.site/`
+- Crypto RSS page: `/crypto-rss/`
 
