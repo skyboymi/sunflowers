@@ -1,6 +1,7 @@
 # Hugo Blog
 
 This repository is configured for deploying Hugo to GitHub Pages via GitHub Actions.
+Current theme: `hugo-theme-dream` (`themes/dream`).
 
 ## Local preview
 
@@ -21,4 +22,9 @@ hugo --gc --minify
    - `Settings` -> `Pages`
    - `Source` = `GitHub Actions`
 3. Wait for `.github/workflows/hugo.yml` to finish.
+
+## Theme config
+
+- Main config: `hugo.toml`
+- Dream docs: `https://hugo-theme-dream.g1en.site/`
 
